@@ -27,7 +27,7 @@ function Home({ isAuth }) {
             <div className="postHeader">
               <div className="title">
                 <h1>
-                  <Markdown>{post.title}</Markdown>{" "}
+                  <Markdown>{post.title}</Markdown>
                 </h1>
               </div>
               <div className="deletePost">
